@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Danzz Game Turbo</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="device_info">Informasi Perangkat</string>
+    <string name="refresh_rate">Refresh Rate</string>
+    <string name="not_available">Tidak tersedia</string>
+    <string name="battery">Baterai</string>
+    <string name="android_version">Versi Android</string>
+    <string name="manufacturer">Produsen</string>
+    <string name="model">Model</string>
+    <string name="sdk">SDK Level</string>
+</resources>
